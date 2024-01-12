@@ -1,1 +1,1 @@
-Projects made during school studies
+Projects made during school studies.
