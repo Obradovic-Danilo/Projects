@@ -1,0 +1,45 @@
+{
+    "name": "digitalcube-task",
+    "version": "1.0.0",
+    "description": "Digital Cube task",
+    "email": "",
+    "scripts": {
+        "start": "nodemon --watch webpack.config.dev.js --exec \"webpack-dev-server --config webpack.config.dev.js\"",
+        "build:prod": "webpack --config webpack.config.prod.js",
+        "build:dev": "sourcemap='true' webpack --config webpack.config.prod.js"
+    },
+    "keywords": [],
+    "author": "Digital Cube",
+    "license": "MIT",
+    "devDependencies": {
+        "autoprefixer": "^8.6.5",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-polyfill": "^6.26.0",
+        "babel-preset-env": "^1.7.0",
+        "clean-webpack-plugin": "^0.1.19",
+        "css-loader": "^2.1.1",
+        "cssnano": "^4.1.10",
+        "fast-sass-loader": "^1.4.5",
+        "file-loader": "^1.1.11",
+        "image-webpack-loader": "^4.6.0",
+        "mini-css-extract-plugin": "^0.4.1",
+        "node-sass": "^4.11.0",
+        "nodemon": "^1.17.5",
+        "optimize-css-assets-webpack-plugin": "^5.0.1",
+        "postcss-loader": "^2.1.5",
+        "resolve-url-loader": "^2.3.0",
+        "sass-loader": "^7.0.3",
+        "style-loader": "^0.21.0",
+        "uglifyjs-webpack-plugin": "^1.2.7",
+        "webpack": "^4.15.1",
+        "webpack-cli": "^3.0.8",
+        "webpack-dev-server": "^3.3.1",
+        "webpack-merge": "^4.1.3"
+    },
+    "dependencies": {
+        "domready": "^1.0.8",
+        "jquery": "^3.4.0",
+        "normalize-scss": "^7.0.1"
+    }
+}

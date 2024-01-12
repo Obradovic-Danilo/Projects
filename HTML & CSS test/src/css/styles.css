@@ -1,0 +1,632 @@
+﻿
+div#click_slika{
+	height: 50px;
+}
+
+div#red_prvi {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+div#click_slika img{
+	float:right;
+	padding-top: 10px;
+	position: inherit;
+    
+}
+
+div#laoreet {
+    height: 200px;
+    padding: 0px;
+}
+
+div#row-two-left {
+    height: 750px;
+    text-align: left;
+    padding-top: 24%;
+    padding-right: 15px;
+}
+
+div#row-two-right {
+    height: 750px;
+    text-align: left;
+    color:white;
+    padding-right: 0px;
+  }
+
+ div#crvenakocka {
+    background-color: #FE5B60;
+    height: 500px;
+}
+
+div#ljubicastakocka {
+    background-color: #7152C6;
+    height: 300px;
+}
+
+div#plavakocka {
+    background-color: #2979FF;
+    height: 300px;
+}
+
+div#laoreet h3 {
+    color: black;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 35%;
+}
+
+div#red_drugi {
+    height: 810px;
+}
+
+div#razmak_treceg_reda {
+    height: 150px;
+    background-color: white;
+    display: none;
+}
+
+
+
+div#prostor {
+    width: 50%;
+    border-right: 3px solid black;
+    height: 170px;
+    /* background-color: white; */
+}
+
+div#crta2 {
+    border-left: 3px solid black;
+    height: 250px;
+}
+
+div#povezivanje_redova2{
+	margin-left: 50%;
+}
+div#zutakocka {
+    background-color: #FFD400;
+    height: 300px;
+}
+
+h3#aaa {
+    position: absolute;
+    bottom: 0;
+    text-decoration: underline;
+}
+
+h4#black{
+	color:black;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right:0px;
+}
+
+div#povezivanje_redova {
+    margin-left: 80%;
+}
+
+div#crta {
+    border-left: 3px solid black;
+    height: 250px;
+}
+
+#red_tri {
+    background-color: #A687FB;
+    height: 650px;
+    margin-top: 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+h1{font-size:2.5em}
+h2{font-size:2.1875em}
+h3{font-size:1.75em}
+h4{font-size:1.5em}
+h5{font-size:1.3125em}
+
+#titles{
+	color:#FFD400;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 25px;
+	width: 100%;
+	
+}
+
+#title2{
+	color:white;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 25px;
+	width: 100%;
+	
+}
+
+
+
+#treci_red_tekst {
+    text-align: left;
+    color: white;
+    padding-right: 100px;
+    width: 50%;
+    float: right;
+}
+
+div#isprekidan_razmak{margin-left:50%;}
+
+div#isprekidana_linija {
+    border-left: 2px dashed black;
+    height: 180px;
+}
+
+
+#treci_red_slika{
+	margin-left:10%;
+	display: block;
+}
+
+
+#red_cetiri{
+	height:480px;
+	background-color:lightblue;
+	text-align: center;
+	margin-top:10px;
+
+}
+
+#red_cetiri img{
+	margin:auto;
+	width: 250px;
+	height: 200px;
+	display: block;
+
+}
+
+.row{
+	margin-right: 0px;
+	margin-left:0px;
+}
+
+#text_ispod_slike{
+	width:250px;
+	margin: auto;
+	padding-bottom:100px;
+	margin-top:10px;
+
+}
+
+
+#red_peti{
+	height:325px;
+	text-align: center;
+
+}
+
+#red_sesti{
+	
+	height: 750px;
+	margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 50px;
+    color:darkblue;
+
+}
+
+#red_sesti h1 {
+    width: 55%;
+    margin: 0; 
+    position: absolute;
+    font-weight: bold;
+}
+
+
+div#red_sesti img {
+    float: right;
+    position: unset;
+}
+
+#dugme{
+	width: 100px;
+    height: 50px;
+    background-color: #FE5B60;
+    color: white;
+    margin-top:170px;
+}
+
+#red_sedmi{
+	height: 450px;
+	background-color: #445EA0;
+	color:white;
+	margin: 50px;
+	margin-bottom:0px;
+}
+
+
+
+
+#dugme_dva{
+
+	width: 100px;
+    height: 50px;
+    background-color: #FFD400;
+    color: white;
+    float:right;
+    margin-right: 0px;  
+    margin-top: 20px;
+
+}
+
+h3#contact {
+    position: unset;
+    margin: 0;
+    /* width: 100px; */
+    display: inline-block;
+    /* padding-top: 5px; */
+    padding-right: 10px;
+}
+
+div#levi_deo {
+    float: left;
+    width: 33%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+div#srednji_deo {
+    width: 92%;
+    text-align: center;
+    position: absolute;
+}
+
+div#srednji_deo h3 {
+    padding-bottom: 12px;
+}
+
+#kontakt {
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+#kontakt2 {
+    margin-top: 50px;
+    
+    text-align:center;
+}
+
+#kontakt3 {
+    margin-top: 50px;
+    
+}
+
+#opcije {
+    padding-top: 50px;
+    padding-left: 20px;
+    width: 10%;
+    background-color: white;
+    float: right;
+    height: 100vh;
+    position: absolute;
+    text-align: left;
+    z-index: 2;
+    margin-left: 90%;
+    visibility: hidden;
+}
+
+#opcije h1{margin-bottom:100px;}
+
+.row2 {
+    position: initial;
+    /* margin: 150px; */
+    
+    height: 100vh;
+}
+
+#red_drugi{
+
+	margin-left:150px;
+	margin-right:150px;
+}
+
+
+div#opcije a {
+    font-size: 25px;
+    color: black;
+}
+
+div#opcije h1 {
+    padding-bottom:20px;
+}
+
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+
+
+div#desni_deo {
+    float: right;
+    margin-right:40px;
+    width:35%;
+}
+
+.col-sm-6{padding: 0;}
+
+#txtarea {
+    width: 100%;
+    height: 225px;
+}
+
+@media only screen and (max-width: 768px) {
+  
+  h1{font-size: 1.5em}
+  h2{font-size:1.13125em;}
+  h3{font-size:1em;}
+  h4{font-size:0.6875em;}
+  
+
+
+#red_drugi{
+	margin:0;
+}
+
+.row{margin-left:0px; padding-left:0px;margin-right:0px;}
+
+
+.col-xs-12 {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+div#crvenakocka {
+    background-color: #FE5B60;
+    height: 500px;
+    padding-left: 15px;
+}
+
+#row-two-left{display:none;}
+
+#red_tri {
+    background-color: #A687FB;
+    height: 650px;
+    margin: 0;
+    
+}
+
+div#red_tri img {
+    width: 70%;
+}
+
+
+#treci_red_tekst {
+    width: 85%;
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding-right: 0px;
+    float: none;
+    padding-left: 0px;
+}
+
+
+div#red_tri img {
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+p#razmaci {
+    display: none;
+}
+
+p#text_ispod_slike {
+    padding-top: 0px;
+    padding-bottom: 90px;
+}
+
+h1#naslov_ispod_slike {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#red_cetiri {
+    height: 1750px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#red_sesti {
+    height: 640px;
+    margin-left: 0px; 
+    margin-right:0px; 
+    margin-top: 0px; 
+    color: darkblue;
+}
+
+#red_sesti h1 {
+    width: 90%;
+    margin: 0;
+    position: unset;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+
+
+div#red_sesti img {
+ 
+    width: 95%;
+    float: none;
+}
+
+#dugme {
+    width: 100px;
+    height: 50px;
+    background-color: #FE5B60;
+    color: white;
+    margin-top: 80px;
+    
+    margin-left: 37%;
+}
+
+#srednji_deo{display: none;}
+
+#red_sedmi {
+    height: 420px;
+    background-color: #445EA0;
+    color: white;
+    margin:0px;
+}
+#sakrij_naslove{display: none;}
+
+
+
+div#levi_deo {
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+
+#kontakt {
+    margin-top: 0px;
+    padding-left: 0px;
+}
+
+#txtarea {
+    width: 100%;
+    height: 225px;
+}
+
+
+
+#opcije {
+    width: 60%;
+    background-color: white;
+    float: right;
+    height: 100vh;
+    position: absolute;
+    text-align: left;
+    padding-left: 20px;
+    z-index: 2;
+    margin-left: 40%;
+    padding-top:0px;
+}
+
+#opcije h1{margin-bottom: 100px;padding-bottom:0px;}
+
+div#zutakocka {
+    background-color: #FFD400;
+    height: 250px;
+    padding-left: 15px;
+}
+
+
+div#ljubicastakocka {
+    background-color: #7152C6;
+    height: 300px;
+    float: right;
+}
+
+div#plavakocka {
+    background-color: #2979FF;
+    height: 300px;
+    float: left;
+}
+
+div#laoreet {
+    display: none;
+}
+
+div#razmak_treceg_reda {
+    height: 150px;
+    background-color: white;
+    display: block;
+}
+
+
+div#povezivanje_redova {display: none;}
+
+div#crta {display: none;}
+
+
+div#red_prvi {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+div#red_drugi {
+    height: 1050px;
+}
+
+
+div#crta2 {
+    display:none;
+}
+
+div#povezivanje_redova2{
+	display: none;
+}
+
+
+div#isprekidan_razmak{display: none;}
+
+div#isprekidana_linija {display: none;}
+
+div#desni_deo {
+    margin: auto;
+    width: 85%;
+    float: none;
+    padding-top: 10px;
+
+}
+
+#txtarea {
+    width: 100%;
+    height: 150px;
+}
+
+
+div#red_sesti img {
+    
+    position: unset;
+    width: 90%;
+    float: none;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#dugme_dva{margin-bottom:50px;}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 1366px){
+
+#red_sesti {
+    height: 750px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+    color: darkblue;
+}
+}
+
+
